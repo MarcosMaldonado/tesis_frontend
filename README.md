@@ -1,4 +1,4 @@
-# IncidenClic PY — Frontend
+# Gestión de Incidencias — Frontend
 
 SPA responsive construida con React 19, Vite, React Router, Axios, Tailwind CSS y Lucide. Presenta experiencias adaptadas para superadministrador, administrador, vecino y proveedor.
 
